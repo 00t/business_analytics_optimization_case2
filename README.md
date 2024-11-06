@@ -1,3 +1,5 @@
+BAN630 - Case 2
+
 Giant Motor Company
 
 This case deals with strategic planning issues for a large company. The main issue is planning the company’s production capacity for the coming year. At issue is the overall level of capacity and the type of capacity—for example, the degree of flexibility in the manufacturing system. The main tool used to aid the company’s planning process is a mixed integer linear programming (MILP) model. A mixed integer program has both integer and continuous variables.
